@@ -1,7 +1,5 @@
-n=10
+n=8
 if(n%2===0){
     console.log("even")
 }
-console.log("hey mahi")
-console.log("mahigi")
-console.log("hello rahuiul")
+console.log("hey rahul")
